@@ -12,7 +12,7 @@ Similar to romanian game of "barbut" but with some extra rules.
 ![score after hold](https://user-images.githubusercontent.com/94912205/151709164-45e1f973-f6d4-4df4-ae20-0c2f0002c61f.PNG)
 
 - Curent score reseting to 0 after getting a *1* dice 
-![dice game press 1](https://user-images.githubusercontent.com/94912205/151709186-d05911ba-79ab-4403-b619-ddd32f1901b1.gif)
+- ![dice game press 1](https://user-images.githubusercontent.com/94912205/151709186-d05911ba-79ab-4403-b619-ddd32f1901b1.gif)
 
 - Player 1 wins because he has more than 100 points 
 ![dice game win](https://user-images.githubusercontent.com/94912205/151709216-6167bd9f-db30-4a1e-8aa3-a6e1d65bd664.PNG)
