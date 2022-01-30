@@ -16,3 +16,5 @@ Similar to romanian game of "barbut" but with some extra rules.
 
 - Player 1 wins because he has more than 100 points 
 ![dice game win](https://user-images.githubusercontent.com/94912205/151709216-6167bd9f-db30-4a1e-8aa3-a6e1d65bd664.PNG)
+
+- When the user presses the `Play Again` button, all scores reset and Player 1 begins.
